@@ -2,5 +2,5 @@
 	path = CW-TrivialPursuit
 	url = https://github.com/PLLima/CW-TrivialPursuit/
 [submodule "P1"]
-	path = CW-TrivialPursuit
+	path = P1
 	url = https://github.com/PLLima/CW-TrivialPursuit/
