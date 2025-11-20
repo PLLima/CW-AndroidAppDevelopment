@@ -1,9 +1,6 @@
 [submodule "CW-TrivialPursuit"]
 	path = CW-TrivialPursuit
 	url = https://github.com/PLLima/CW-TrivialPursuit/
-[submodule "P1"]
-	path = P1
-	url = https://github.com/PLLima/CW-TrivialPursuit/
 [submodule "P2"]
 	path = P2
 	url = https://github.com/PLLima/SafeSip/
