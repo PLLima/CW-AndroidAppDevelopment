@@ -4,3 +4,6 @@
 [submodule "P2"]
 	path = P2
 	url = https://github.com/PLLima/SafeSip/
+[submodule "P1"]
+	path = P1
+	url = https://github.com/PLLima/CW-TrivialPursuit
